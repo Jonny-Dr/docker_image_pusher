@@ -1,8 +1,2 @@
 # 模板一
-xhofe/alist:latest
-
-# 模板二
---platform=linux/arm64 xiaoyaliu/alist
-
-# 模板三
-opengrok/docker
+mysql:8.0.36
